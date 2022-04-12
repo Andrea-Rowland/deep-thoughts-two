@@ -31,7 +31,7 @@
 * Peck, Sterling
 
 ## Group 6
-Ri* veros, Luis
+* Riveros, Luis
 * Vatuvei, Bryson
 * Zabriskie, Mark
 * Smith, Janea
