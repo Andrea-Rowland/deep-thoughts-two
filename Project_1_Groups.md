@@ -51,7 +51,7 @@ Ri* veros, Luis
 
 ## Group 9
 * Watts, Merrick
-H* ays, Gerus
+* Hays, Gerus
 * Carver, Kansas
 * Standfield, Alex
 * Johnson, David
