@@ -13,17 +13,15 @@
 * Canez, Alex
 * Lee, Shek chun
 * Shearer, Tess
+* Ngafua, Janice
 
 ## Team 4
 * Peck, Sterling
 * Carver, Kansas
 * Garcia, Valeria
+* Goodwin, Jennifer
 
 ### Team 5
-* Goodwin, Jennifer
-* Standfield, Alex
-* Maddock, Kody
-* Ngafua, Janice
 
 ### Team 6
 * Sandgren, Braden
@@ -45,8 +43,11 @@
 * Clark, Spencer
 * Cowley, Jayden
 * Vatuvei, Bryson
+* Standfield, Alex
 
 ### Team 10
 * Hays, Gerus
 * Pineda, Luis
 * Haag, Andrea
+* Maddock, Kody
+
